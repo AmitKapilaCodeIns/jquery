@@ -21,7 +21,7 @@ $(document).ready(function () {
         $("p").css("color", "red");
     });
     $("h2").hover(function () {
-        $("h2").css("background-color", "lightblue");
+        $("h2").css("background-color", "lightgreen");
     });
     $(".card-panel").mouseenter(function () {
         $("body").css("background-color", "black");
